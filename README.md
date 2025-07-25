@@ -10,5 +10,8 @@ Another version: bit more  iteractive:
 
 
 
+statecraft iteractive: https://smcallan.github.io/WOC/
+
+
 
 
