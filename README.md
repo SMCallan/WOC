@@ -1,42 +1,28 @@
-🛡️ WOC: The Weaponization of Character
+🛡️ WOC: Weaponization of Character
 An Interactive Exploration of Modern Political Warfare
 
-This project explores the systematic "weaponization of character" as an emerging and insidious threat to the national security of Western democracies. Moving beyond traditional espionage and cyber-attacks, this new doctrine of conflict targets the very integrity of our institutions and leaders. Through three distinct interactive reports, this repository delves into the methods, case studies, and strategic implications of this corrosive form of statecraft.
+This project explores the systematic "weaponization of character" as an emerging and insidious threat to the national security of Western democracies. Moving beyond traditional espionage and cyber-attacks, this new doctrine of conflict targets the very integrity of our institutions and leaders. Through three distinct interactive webpages, this repository delves into the methods, case studies, and strategic implications of this corrosive form of statecraft.
 
-🚀 The Interactive Reports
-This repository hosts three unique web-based reports, each offering a different lens through which to understand the weaponization of character.
+🚀 Interactive Explorations
+This project presents three unique, interactive webpages. Each one serves as a different lens through which to explore the data and concepts behind the weaponization of character.
 
-Screenshot
-
-Version
-
-Description
-
-Link
-
-<img src="https://www.google.com/search?q=https://placehold.co/600x400/111827/FFFFFF%3Ftext%3DCorrosive%2BStatecraft" alt="Screenshot of Corrosive Statecraft report" width="300">
-
-Corrosive Statecraft
+1. Corrosive Statecraft
 
 A comprehensive, text-focused deep dive into the core concepts, case studies, and strategic recommendations. Ideal for in-depth reading and research.
 
+Explore the Webpage ▸ https://smcallan.github.io/Weapons_Of_Char/
 
-
-<img src="https://www.google.com/search?q=https://placehold.co/600x400/1F2937/FFFFFF%3Ftext%3DThe%2BNew%2BFrontline" alt="Screenshot of The New Frontline report" width="300">
-
-The New Frontline
+2. The New Frontline
 
 A visually-driven version featuring interactive elements, infographics, and a dynamic layout to explore the key themes in a more engaging format.
 
+Explore the Webpage ▸ https://smcallan.github.io/weaponization-of-character/
 
-
-<img src="https://www.google.com/search?q=https://placehold.co/600x400/374151/FFFFFF%3Ftext%3DStatecraft%2BInteractive" alt="Screenshot of Statecraft Interactive report" width="300">
-
-Statecraft Interactive
+3. Statecraft Interactive
 
 A highly interactive and visually rich presentation designed to bring the complex data and concepts to life through dynamic visualizations and user engagement.
 
-
+Explore the Webpage ▸ https://smcallan.github.io/WOC/
 
 🎯 Core Concepts Explored
 This project is built on a foundation of key strategic concepts that define this new era of conflict.
@@ -64,15 +50,6 @@ A crucial distinction that defines this threat:
 Traditional Espionage targets Secrecy to steal information.
 
 Character Weaponization targets Sovereignty to subvert a nation's ability to act in its own interest.
-
-🛠️ Technology
-These interactive reports were built using modern web technologies to create a responsive and engaging user experience.
-
-HTML5
-
-CSS3 (including Tailwind CSS for rapid styling)
-
-JavaScript (for interactivity, animations, and data visualization)
 
 ✍️ Author
 This project was conceived, researched, and developed by Callan.
