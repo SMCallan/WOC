@@ -20,7 +20,7 @@ Corrosive Statecraft
 
 A comprehensive, text-focused deep dive into the core concepts, case studies, and strategic recommendations. Ideal for in-depth reading and research.
 
-View Live
+
 
 <img src="https://www.google.com/search?q=https://placehold.co/600x400/1F2937/FFFFFF%3Ftext%3DThe%2BNew%2BFrontline" alt="Screenshot of The New Frontline report" width="300">
 
@@ -28,7 +28,7 @@ The New Frontline
 
 A visually-driven version featuring interactive elements, infographics, and a dynamic layout to explore the key themes in a more engaging format.
 
-View Live
+
 
 <img src="https://www.google.com/search?q=https://placehold.co/600x400/374151/FFFFFF%3Ftext%3DStatecraft%2BInteractive" alt="Screenshot of Statecraft Interactive report" width="300">
 
@@ -36,7 +36,7 @@ Statecraft Interactive
 
 A highly interactive and visually rich presentation designed to bring the complex data and concepts to life through dynamic visualizations and user engagement.
 
-View Live
+
 
 🎯 Core Concepts Explored
 This project is built on a foundation of key strategic concepts that define this new era of conflict.
@@ -76,4 +76,3 @@ JavaScript (for interactivity, animations, and data visualization)
 
 ✍️ Author
 This project was conceived, researched, and developed by Callan.
-
